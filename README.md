@@ -25,5 +25,6 @@ After a solution is found, following is printed out on separate lines:
 goal node)
 4. the maximum depth searched
 5. the maximum size of Frontier at any point during the search.
+
 If the goal position is not reachable from the start position, the standard output should contain the 
 line “No Solution” and nothing else.
