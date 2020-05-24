@@ -1,5 +1,4 @@
 # Maze Solver
-### Java implementation of A*  and BFS algorithm for finding path between start and end points in a 2D maze
 
 ## Input
 A maze will be given in a text file as a matrix in which the start position is indicated by “S”, 
